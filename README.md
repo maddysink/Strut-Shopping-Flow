@@ -13,5 +13,10 @@ I created this checkout flow using Figma and some open source designs as the bas
 # Demo
 
 
+Uploading Screen Recording 2025-03-04 at 3.48.38 PM.mov…
+
+
+
+
 # Reflection
 I am really happy with this project and how it turned out.  I learned how to animate the product moving across the screen into the cart, which is something I have been wanting to learn how to do and implement into my digital experiences for a while now! Additionally, it was really interesting to think of microinteractions in terms of an actual user flow, this made the interaction design feel more meaningful and practically applied.  These past two projects have completely opened my eyes to all the possibilies of adding animation and purposeful movement into a user experience. I feel that I have grown immensely as a UX designer in such a short period of time, as this was not something I had previously thought possible on Figma, nor something that I should learn how to do as an early career UX designer.  However, I am so so so happy.  I can truly see the growth within myself and my work.  I would love to continue to build on these skills to really stand out in the world of UX.
