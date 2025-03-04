@@ -12,10 +12,7 @@ I created this checkout flow using Figma and some open source designs as the bas
 
 # Demo
 
-
-Uploading Screen Recording 2025-03-04 at 3.48.38 PM.mov…
-
-
+https://github.com/user-attachments/assets/b6046cb0-bc5a-4f8d-b76b-6cdbc7f1eef6
 
 
 # Reflection
